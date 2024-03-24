@@ -71,3 +71,5 @@ resetBtn.addEventListener('click', () => {
     intervalId = null;
 })
 
+console.log(secondText);
+
