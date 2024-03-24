@@ -70,6 +70,6 @@ resetBtn.addEventListener('click', () => {
     hoursEl.textContent = hourText;
     intervalId = null;
 })
-
+//added last line for testing git project
 console.log(secondText);
 
